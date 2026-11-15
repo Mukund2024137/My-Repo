@@ -339,8 +339,8 @@ window.PORTFOLIO = {
       description: "Managed registrations portal and on-ground tech support for 2,000+ attendees."
     },
     {
-      name: "NSS", role: "Volunteer", period: "2024 – 2025", icon: "🌱",
-      description: "Taught basic computer skills to school students in a nearby village."
+      name: "RSS", role: "Volunteer", period: "2019 – 2026", icon: "🌱",
+      description: "Assistant Head Teacher"
     }
   ],
 
@@ -349,7 +349,7 @@ window.PORTFOLIO = {
     heading: "Ready Player Two?",
     message: "I'm currently looking for summer internships, open-source mentorships and hackathon teammates. My inbox is always open — I reply faster than my code compiles.",
     formAction: "",       // Optional: paste a Formspree URL (https://formspree.io/f/xxxx). Empty = opens email app.
-    phone: ""             // Optional: "+91 98xxxxxx10" — leave empty to hide
+    phone: "9899******"             // Optional: "+91 98xxxxxx10" — leave empty to hide
   },
 
   /* ---------- 14. FOOTER ---------- */
