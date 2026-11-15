@@ -211,7 +211,7 @@ window.PORTFOLIO = {
     {
       title: "Unbeatable Tic-Tac-Toe AI",
       type: "side", status: "Completed", difficulty: 3, xp: 600,
-      date: "Nov 2025", team: "Solo",
+      date: "Nov 2026", team: "Solo",
       image: "assets/images/quest-3.svg",
       summary: "A console + web Tic-Tac-Toe that never loses, powered by the Minimax algorithm.",
       objective: "Understand recursion and game trees by building an AI that plays perfectly.",
@@ -223,7 +223,7 @@ window.PORTFOLIO = {
     {
       title: "SkyCast Weather Dashboard",
       type: "side", status: "Completed", difficulty: 2, xp: 400,
-      date: "Aug 2025", team: "Solo",
+      date: "Aug 2026", team: "Solo",
       image: "assets/images/quest-4.svg",
       summary: "A clean weather dashboard with 5-day forecasts and city search.",
       objective: "My first project using a public API and async JavaScript.",
@@ -235,7 +235,7 @@ window.PORTFOLIO = {
     {
       title: "Smart Dustbin (Arduino)",
       type: "side", status: "Completed", difficulty: 2, xp: 350,
-      date: "Feb 2025", team: "Team of 2 · 1st-year workshop",
+      date: "Feb 2026", team: "Team of 2 · 1st-year workshop",
       image: "assets/images/quest-5.svg",
       summary: "A touch-free dustbin whose lid opens automatically when you come close.",
       objective: "First-year engineering workshop project — make an everyday object smarter.",
@@ -247,7 +247,7 @@ window.PORTFOLIO = {
     {
       title: "Library Management System",
       type: "side", status: "Completed", difficulty: 3, xp: 500,
-      date: "Apr 2025", team: "Solo · Semester mini project",
+      date: "Apr 2026", team: "Solo · Semester mini project",
       image: "assets/images/quest-6.svg",
       summary: "A Java + MySQL desktop app to issue, return and track library books.",
       objective: "Semester 2 OOP mini project — apply classes, inheritance and JDBC.",
@@ -262,17 +262,17 @@ window.PORTFOLIO = {
      status: "done" | "current" | "locked"                           */
   journey: [
     {
-      level: 1, title: "The Awakening", period: "Sem 1 · Aug–Dec 2024", status: "done",
+      level: 1, title: "The Awakening", period: "Sem 1 · Aug–Dec 2026", status: "done",
       boss: "Engineering Mathematics", sgpa: "8.4",
       highlights: ["Wrote my first C program", "Joined the coding club", "Survived 8 AM labs"]
     },
     {
-      level: 2, title: "Tutorial Island", period: "Sem 2 · Jan–May 2025", status: "done",
+      level: 2, title: "Tutorial Island", period: "Sem 2 · Jan–May 2026", status: "done",
       boss: "Programming in C", sgpa: "8.9",
       highlights: ["Built the Arduino Smart Dustbin", "First hackathon (and first all-nighter)", "Learnt Git"]
     },
     {
-      level: 3, title: "The Data Dungeon", period: "Sem 3 · Aug–Dec 2025", status: "done",
+      level: 3, title: "The Data Dungeon", period: "Sem 3 · Aug–Dec 2026", status: "done",
       boss: "Data Structures", sgpa: "8.8",
       highlights: ["300+ DSA problems", "Tic-Tac-Toe AI", "NPTEL Java – Elite"]
     },
@@ -291,27 +291,27 @@ window.PORTFOLIO = {
      rarity: common | rare | epic | legendary  |  locked: true = goal not yet achieved */
   achievements: [
     {
-      title: "Smart India Hackathon", issuer: "Internal Round — Qualified", date: "Sep 2025", rarity: "legendary", icon: "🚀",
+      title: "Smart India Hackathon", issuer: "Internal Round — Qualified", date: "Sep 2026", rarity: "legendary", icon: "🚀",
       description: "Our team cleared the college-level round of SIH with a campus-safety app idea.", link: "https://example.com"
     },
     {
-      title: "NPTEL Java — Elite", issuer: "NPTEL · IIT Kharagpur", date: "Oct 2025", rarity: "epic", icon: "☕",
+      title: "NPTEL Java — Elite", issuer: "NPTEL · IIT Kharagpur", date: "Oct 2026", rarity: "epic", icon: "☕",
       description: "Scored 82% in the 12-week Programming in Java course.", link: "https://example.com"
     },
     {
-      title: "5★ Problem Solving", issuer: "HackerRank", date: "Jul 2025", rarity: "epic", icon: "⭐",
+      title: "5★ Problem Solving", issuer: "HackerRank", date: "Jul 2026", rarity: "epic", icon: "⭐",
       description: "Reached 5 stars in Problem Solving on HackerRank.", link: "https://example.com"
     },
     {
-      title: "Dept. Expo — 2nd Place", issuer: "Mechatronics Expo 2025", date: "Mar 2025", rarity: "rare", icon: "🥈",
+      title: "Dept. Expo — 2nd Place", issuer: "Mechatronics Expo 2026", date: "Mar 2026", rarity: "rare", icon: "🥈",
       description: "Smart Dustbin project secured 2nd place among 40 first-year teams.", link: ""
     },
     {
-      title: "Hacktoberfest Contributor", issuer: "DigitalOcean", date: "Oct 2025", rarity: "rare", icon: "🎃",
+      title: "Hacktoberfest Contributor", issuer: "DigitalOcean", date: "Oct 2026", rarity: "rare", icon: "🎃",
       description: "Merged 4 pull requests into open-source repositories.", link: "https://example.com"
     },
     {
-      title: "Python for Everybody", issuer: "Coursera", date: "Jun 2025", rarity: "common", icon: "🐍",
+      title: "Python for Everybody", issuer: "Coursera", date: "Jun 2026", rarity: "common", icon: "🐍",
       description: "Completed the 5-course Python specialisation.", link: "https://example.com"
     },
     {
@@ -327,15 +327,15 @@ window.PORTFOLIO = {
   /* ---------- 12. GUILDS / CLUBS / EXTRA-CURRICULAR ---------- */
   guilds: [
     {
-      name: "Coding Club", role: "Core Member · Event Lead", period: "2024 – Present", icon: "💻",
-      description: "Organised 2 coding contests for 300+ juniors and run weekly DSA sessions."
+      name: "Media Club", role: "Core Member · Cameraman", period: "2026 – Present", icon: "💻",
+      description: "."
     },
     {
-      name: "Google Developer Group on Campus", role: "Web Team Member", period: "2025 – Present", icon: "🌈",
+      name: "Google Developer Group on Campus", role: "Web Team Member", period: "2026 – Present", icon: "🌈",
       description: "Helped build the club website and hosted a Git & GitHub workshop."
     },
     {
-      name: "TechFest — Tech Team", role: "Volunteer", period: "Feb 2025", icon: "🎪",
+      name: "TechFest — Tech Team", role: "Volunteer", period: "Feb 2026", icon: "🎪",
       description: "Managed registrations portal and on-ground tech support for 2,000+ attendees."
     },
     {
